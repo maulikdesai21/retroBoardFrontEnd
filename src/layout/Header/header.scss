@@ -1,0 +1,19 @@
+.mainNav{
+  display: flex;
+  flex-direction: row;
+  height: 70px;
+  align-items: center; 
+
+  .mainIcon{
+    margin: 0px 15px;
+  }
+
+  .titleText{
+    font-size: 18px;
+    flex-grow: 1;
+  }
+
+  .newBoardButton{
+    padding: 10px 25px;
+  }
+}

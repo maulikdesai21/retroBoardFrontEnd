@@ -1,0 +1,15 @@
+.viewPort{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  .header{
+
+  }
+  .mainContent{
+    flex-grow: 1;
+  }
+
+  .footer{
+
+  }
+}
